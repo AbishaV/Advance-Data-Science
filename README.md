@@ -6,8 +6,8 @@ A collection of assignments exploring advanced data science concepts, with hands
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 1 | [Data Preparation & Interpretation](./data-preparation/) | Tackling data quality, outlier detection, and distribution analysis on Pizza Sales and Ames Housing datasets |
-| 2 | [Causal Inference in ML](./causal-inference/) | Estimating causal effects using propensity scores, Double ML, and Causal Forests on the LaLonde and IHDP datasets |
+| 1 | [Data Preparation & Interpretation](./Individual_AbishaVadukoot_DataPreparationChallenge) | Tackling data quality, outlier detection, and distribution analysis on Pizza Sales and Ames Housing datasets |
+| 2 | [Causal Inference in ML](./Individual_AbishaVadukoot_CausalML/Individual_AbishaVadukoot_CausalML_new) | Estimating causal effects using propensity scores, Double ML, and Causal Forests on the LaLonde and IHDP datasets |
 
 *More assignments will be added as the course progresses.*
 
